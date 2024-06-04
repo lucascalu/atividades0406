@@ -1,4 +1,4 @@
-![image](https://github.com/lucascalu/atividades0406/assets/54896910/b4e834d7-26eb-48f0-8501-30c2107e74bd)# atividades 0406
+
 
 
 <PRE>
