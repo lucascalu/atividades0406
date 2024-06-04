@@ -29,3 +29,8 @@ e envia-las para o email lucas.c@docente.senai.br
 
 <pre>semafóro</pre>
 <img src="https://sites.usp.br/ltsi/wp-content/uploads/sites/248/2020/07/1-2.png">
+
+<pre>
+ Links de referência:
+ https://tattered-confidence-28b.notion.site/Arduino-Programa-o-dd45e59330c342fe9160c51dee6cceb6
+</pre>
